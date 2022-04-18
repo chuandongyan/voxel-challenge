@@ -13,7 +13,11 @@ to install the dependendies of the voxel renderer.
 Please fill in your code in `main.py` and include your result in this README.md file.
 
 ## Demo
-![](./demo.jpg)
+### mageicsquare
+![](./mageicsquare.jpg)
+### main.乱七八糟
+![](./luanqibazao.jpg)
+
 
 ## Quickstart
 
